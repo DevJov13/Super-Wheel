@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516809960949",
+    "project_id": "brl-gaming",
+    "storage_bucket": "brl-gaming.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516809960949:android:376bae8cbdea9a411104bc",
+        "android_client_info": {
+          "package_name": "gme.superwheel.jov"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJPUH5RvlAK_G_VtmUedbRDeWzDJJSdxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
